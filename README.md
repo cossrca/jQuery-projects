@@ -1,6 +1,6 @@
 # jQuery Practice Project
 
-This is a simple project built to practice and reinforce core jQuery concepts, including DOM manipulation, event handling, animations, and AJAX basics.
+jQuery to-Do List with Drag-and-Drop Sorting + LocalStorage. Began as a simple project built to practice and reinforce core jQuery concepts, including DOM manipulation, event handling, animations, and AJAX basics.
 
 ## 🚀 Technologies Used
 - HTML5
